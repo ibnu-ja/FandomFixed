@@ -10,7 +10,7 @@ Comments, social media share links, discussion topics, posting, Discord invitati
 
 # How to install
 To install, download and install an ad-blocking extension that supports custom ad lists and/or importing ad lists. I suggest uBlock Origin, which works best on Firefox. https://github.com/gorhill/uBlock
-To install this filter specifically on uBlock Origin, click on the uBlock Origin badge, and go to settings. Go to filter lists, scroll down, import, and paste in the URL https://www.squabbled.net/paste/fandomfixeduBlockOrigin.txt
+To install this filter specifically on uBlock Origin, click on the uBlock Origin badge, and go to settings. Go to filter lists, scroll down, import, and paste in the URL https://github.com/ibnu-ja/FandomFixed/raw/refs/heads/main/uBlock.txt
 Alternatively, you can manually copy the uBlock.txt file into your "My Filters" tab in settings.
 
 # FAQs
