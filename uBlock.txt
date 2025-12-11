@@ -1,5 +1,5 @@
 ! Title: FandomFixed
-! Homepage: https://github.com/squabbled/FandomFixed
+! Homepage: https://github.com/ibnu-ja/FandomFixed
 
 ! fix the entire layout, remove sidebar, ads, spam, etc
 fandom.com##.global-navigation
