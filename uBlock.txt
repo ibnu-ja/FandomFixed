@@ -104,3 +104,4 @@ fandom.com##.fandom-community-header__background:style(width: 100% !important;)
 
 fandom.com##.main-container:style(margin-left: 0 !important; width: 100% !important;)
 fandom.com##.notifications-box
+fandom.com##.trfc161
